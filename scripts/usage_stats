@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/munkireport/munkireport-python2
 # Script by Bochoven
 
 import os, sys, plistlib, subprocess, platform
